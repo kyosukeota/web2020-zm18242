@@ -1,1 +1,1 @@
-function saygoodbay(){alert('Goodbay!');}
+function saygoodbay(){alert('Goodbay');}
