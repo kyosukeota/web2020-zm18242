@@ -1,0 +1,1 @@
+function saygoodbay64(){alert('Goodbay');}
